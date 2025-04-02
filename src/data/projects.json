@@ -1,0 +1,48 @@
+[
+  {
+    "projectName": "Bots and Botany",
+    "projectDescription": "Web application for managing characters in a custom-built tabletop role-playing game system. Features a dynamic multi-step character creation process, including point allocation for attributes, values, and special effects.",
+    "githubLink": "https://github.com/herringvoices/bots-and-botany-cortex-charactersheet",
+    "siteLink": "https://bots-and-botany-character-sheet-9obom.ondigitalocean.app/",
+    "techUsed": [
+      "React",
+      "React-Bootstrap",
+      "React-Router-Dom",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ]
+  },
+  {
+    "projectName": "Hyv",
+    "projectDescription": "Social availability app that helps friends coordinate hangouts. Users can create and share availability windows, filter by custom categories, and send structured hangout requests. Deployed on Azure with automated CI/CD.",
+    "githubLink": "https://github.com/herringvoices/Hyv",
+    "siteLink": "https://hy-hyv.buzz",
+    "techUsed": [
+      "React",
+      "React-Router-Dom",
+      "Radix UI",
+      "Tailwind CSS",
+      "ASP.NET Core",
+      "Entity Framework Core",
+      "PostgreSQL",
+      "Azure",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "projectName": "Shepherd\u2019s Pie",
+    "projectDescription": "Pizza shop management system with a React frontend and a .NET backend. Managed ticketing, created order views, and built backend APIs to support order management with clear site logic.",
+    "githubLink": "https://github.com/herringvoices/ShepherdsPie",
+    "siteLink": "",
+    "techUsed": [
+      "React",
+      "React-Bootstrap",
+      "React-Router-Dom",
+      "C#",
+      "ASP.NET",
+      "Entity Framework Core",
+      "PostgreSQL"
+    ]
+  }
+]

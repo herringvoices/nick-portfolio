@@ -1,0 +1,39 @@
+{
+  "name": "Nicholas Homoelle",
+  "title": "Full Stack Developer",
+  "tagline": "Former Educator | Full Stack Developer | Passionate about People & Code",
+  "email": "nalherring@gmail.com",
+  "location": "Hermitage, Tennessee, United States",
+  "linkedin": "https://www.linkedin.com/in/nicholas-homoelle/",
+  "github": "https://github.com/herringvoices",
+  "bio": "I'm a full stack developer with a background in education, ministry, and creative work so I build software that's not just functional, but thoughtful. My past life as a teacher and pastor taught me how to explain tough concepts, lead with empathy, and meet people where they are. Now I bring that same energy to designing clean user interfaces, writing solid backend logic, and collaborating like a human being. I thrive in projects that need both precision and soul, and I'm especially motivated by work that solves real-world problems without wasting anyone's time.",
+  "techStack": {
+    "frontend": [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "React-Bootstrap",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Radix UI"
+    ],
+    "backend": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      "Entity Framework Core",
+      "PostgreSQL"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "Adobe Illustrator",
+      "Figma",
+      "Cloudinary",
+      "FullCalendar"
+    ],
+    "devOps": ["GitHub Actions", "Azure"]
+  }
+}

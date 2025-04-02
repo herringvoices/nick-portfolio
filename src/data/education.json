@@ -1,0 +1,23 @@
+[
+  {
+    "institution": "Nashville Software School",
+    "degree": "Certificate",
+    "field": "Full Stack Web Development",
+    "dateStart": "2024-08",
+    "dateEnd": "2025-03"
+  },
+  {
+    "institution": "Trevecca Nazarene University",
+    "degree": "Master of Arts",
+    "field": "Teaching",
+    "dateStart": "2021-05",
+    "dateEnd": "2023-05"
+  },
+  {
+    "institution": "Trevecca Nazarene University",
+    "degree": "Bachelor of Arts",
+    "field": "Religion / Pastoral Ministry",
+    "dateStart": "2009-08",
+    "dateEnd": "2013-05"
+  }
+]

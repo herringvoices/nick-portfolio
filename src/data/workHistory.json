@@ -1,0 +1,148 @@
+[
+  {
+    "company": "Nashville Software School",
+    "title": "Software Engineer",
+    "dateStart": "2024-08",
+    "dateEnd": "2025-03",
+    "responsibilities": [
+      "Completed an intensive full-time software development bootcamp",
+      "Built full-stack applications using React, ASP.NET, and PostgreSQL",
+      "Collaborated in team environments using Git and GitHub",
+      "Practiced agile development and code reviews in a simulated workplace"
+    ],
+    "isTech": true
+  },
+  {
+    "company": "Pegram Elementary Fine Arts Magnet School",
+    "title": "3rd Grade Teacher",
+    "dateStart": "2023-08",
+    "dateEnd": "2024-07",
+    "responsibilities": [
+      "Created and delivered engaging lesson plans aligned to standards",
+      "Differentiated instruction to meet the needs of all learners",
+      "Utilized educational technology to enhance learning"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "Pegram Elementary Fine Arts Magnet School",
+    "title": "1st Grade Teacher",
+    "dateStart": "2022-05",
+    "dateEnd": "2023-08",
+    "responsibilities": [
+      "Designed and implemented developmentally appropriate lessons",
+      "Communicated with parents and caregivers to support student growth",
+      "Collaborated with colleagues on interdisciplinary planning"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "The United Methodist Church",
+    "title": "Lead Pastor",
+    "dateStart": "2019-07",
+    "dateEnd": "2022-07",
+    "responsibilities": [
+      "Preached weekly sermons and led worship services",
+      "Planned events and managed church operations",
+      "Oversaw social media and digital outreach",
+      "Facilitated community engagement and fundraising efforts"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "The United Methodist Church",
+    "title": "Director of Youth Ministry",
+    "dateStart": "2018-01",
+    "dateEnd": "2019-12",
+    "responsibilities": [
+      "Led youth programs, retreats, and community service projects",
+      "Built relationships with teens and families",
+      "Managed event planning, budgeting, and promotion"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "ROSS Dress for Less",
+    "title": "Sales Associate",
+    "dateStart": "2016-11",
+    "dateEnd": "2019-06",
+    "responsibilities": [
+      "Operated register and processed transactions",
+      "Unloaded and stocked merchandise",
+      "Maintained clean and organized store environment"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "TennCare",
+    "title": "Legal Assistant",
+    "dateStart": "2017-05",
+    "dateEnd": "2017-09",
+    "responsibilities": [
+      "Handled client calls and researched cases",
+      "Filed continuances and prepared legal documents",
+      "Created and maintained databases and spreadsheets"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "Nazarene Theological Seminary",
+    "title": "Assistant Systems Specialist",
+    "dateStart": "2016-02",
+    "dateEnd": "2016-08",
+    "responsibilities": [
+      "Provided IT support and setup for staff",
+      "Managed user accounts on internal systems",
+      "Performed basic repairs and software installs"
+    ],
+    "isTech": true
+  },
+  {
+    "company": "Nazarene Theological Seminary",
+    "title": "Admissions Counselor",
+    "dateStart": "2015-02",
+    "dateEnd": "2016-02",
+    "responsibilities": [
+      "Managed incoming student records and applications",
+      "Provided info about financial aid and degree programs",
+      "Maintained contact with prospective students"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "Barnes & Noble",
+    "title": "Bookseller",
+    "dateStart": "2014-08",
+    "dateEnd": "2015-02",
+    "responsibilities": [
+      "Assisted customers with book recommendations",
+      "Processed sales and returns",
+      "Maintained displays and store organization"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "Holiday Inn Express",
+    "title": "Night Auditor",
+    "dateStart": "2013-11",
+    "dateEnd": "2014-07",
+    "responsibilities": [
+      "Managed front desk operations overnight",
+      "Balanced daily reports and prepared morning summaries",
+      "Assisted guests with check-ins and requests"
+    ],
+    "isTech": false
+  },
+  {
+    "company": "J.Crew Retail Store",
+    "title": "Sales Associate",
+    "dateStart": "2013-06",
+    "dateEnd": "2013-10",
+    "responsibilities": [
+      "Assisted customers with apparel selection and styling",
+      "Managed stock and organized floor displays",
+      "Handled register transactions and returns"
+    ],
+    "isTech": false
+  }
+]
