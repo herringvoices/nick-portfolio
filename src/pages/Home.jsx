@@ -32,7 +32,7 @@ function Home() {
             className="text-center text-md-end pe-md-4 mb-4 mb-md-0"
           >
             <Image
-              src="/nickprofile.png"
+              src={`${import.meta.env.BASE_URL}nickprofile.png`}
               alt={name}
               className="profile-image"
             />

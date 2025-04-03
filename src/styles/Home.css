@@ -4,7 +4,12 @@
   border-radius: 10px;
   object-fit: cover;
   border: 1px solid rgba(var(--bs-primary-rgb), 1);
-  box-shadow: 0 4px 12px var(--bs-primary);
+
+  transition: box-shadow 0.2s ease;
+}
+
+.profile-image:hover {
+  box-shadow: 0 4px 12px rgba(var(--bs-primary-rgb), 0.5);
 }
 
 .contact-badge {
@@ -17,7 +22,7 @@
   align-items: center;
   text-decoration: none;
   font-size: 0.9rem;
-  transition: transform 0.2s, opacity 0.2s;
+  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
 .contact-badge:hover {
@@ -30,7 +35,11 @@
   background-color: rgba(var(--bs-primary-rgb), 0.1);
   border-radius: 8px;
   border: 1px solid rgba(var(--bs-primary-rgb), 1);
-  box-shadow: 0 4px 12px var(--bs-primary);
+  transition: box-shadow 0.2s ease;
+}
+
+.bio-box:hover {
+  box-shadow: 0 4px 12px rgba(var(--bs-primary-rgb), 0.5);
 }
 
 .tech-badge {
