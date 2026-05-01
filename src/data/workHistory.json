@@ -1,5 +1,33 @@
 [
   {
+    "company": "Momentum AMP",
+    "title": "Junior Software Engineer",
+    "dateStart": "2026-02",
+    "dateEnd": "Present",
+    "responsibilities": [
+      "Develop and maintain software for the Momentum Edge platform supporting independent insurance agents",
+      "Build and debug Java-based backend features and services",
+      "Investigate production issues using logs, monitoring tools, and database queries",
+      "Collaborate with teammates on feature planning, code reviews, and technical problem solving",
+      "Contribute to internal workflow and automation tooling to improve business processes"
+    ],
+    "isTech": true
+  },
+  {
+    "company": "Persevere",
+    "title": "Software Development Instructor",
+    "dateStart": "2025-06",
+    "dateEnd": "2026-02",
+    "responsibilities": [
+      "Taught full-stack web development curriculum to justice-involved learners",
+      "Delivered instruction in JavaScript, Node.js, React, HTML, CSS, MongoDB, and programming fundamentals",
+      "Supported students through classroom and remote instruction as part of a hybrid teaching team",
+      "Provided individualized technical support, debugging guidance, and career preparation",
+      "Helped students build practical development skills through hands-on projects"
+    ],
+    "isTech": true
+  },
+  {
     "company": "Nashville Software School",
     "title": "Software Engineer",
     "dateStart": "2024-08",

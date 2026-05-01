@@ -31,7 +31,7 @@
     ]
   },
   {
-    "projectName": "Shepherd\u2019s Pie",
+    "projectName": "Shepherd's Pie",
     "projectDescription": "Pizza shop management system with a React frontend and a .NET backend. Managed ticketing, created order views, and built backend APIs to support order management with clear site logic.",
     "githubLink": "https://github.com/herringvoices/ShepherdsPie",
     "siteLink": "",
@@ -43,6 +43,20 @@
       "ASP.NET",
       "Entity Framework Core",
       "PostgreSQL"
+    ]
+  },
+  {
+    "projectName": "JavaScript Gym",
+    "projectDescription": "Interactive learning platform built to teach the MERN stack to incarcerated individuals. Features hands-on coding challenges, project-based learning, and resources for mastering JavaScript and full-stack development.",
+    "githubLink": "https://github.com/herringvoices/javaScriptGym",
+    "siteLink": "https://javascriptgym.work/",
+    "techUsed": [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
     ]
   }
 ]
